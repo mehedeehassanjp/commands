@@ -21,3 +21,11 @@ https://console.cloud.google.com/compute/instancesDetail/zones/us-west1-b/instan
 comput engine
 --------------
 https://cloud.google.com/compute/docs/gpus
+
+
+
+file
+-----
+### upload
+gcloud compute scp /home/mehedee/Downloads/data_mehedeehassanjp/product20210609_tempo002.csv deeplearning-3-vm:~
+
