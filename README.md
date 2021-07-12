@@ -27,5 +27,5 @@ https://cloud.google.com/compute/docs/gpus
 file
 -----
 ### upload
-gcloud compute scp /home/mehedee/Downloads/data_mehedeehassanjp/product20210609_tempo002.csv deeplearning-3-vm:~
+gcloud compute scp /home/**/product20210609_tempo002.csv deeplearning-3-vm:~
 
